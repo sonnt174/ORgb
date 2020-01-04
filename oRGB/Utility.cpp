@@ -1,6 +1,5 @@
 // Copyright (C) 2020 Sirn Nguyen Truong <sonnt174@gmail.com>
 
-#include "stdafx.h"
 #include "Utility.h"
 #include "windows.h"
 
